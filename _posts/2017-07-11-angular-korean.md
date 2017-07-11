@@ -5,6 +5,7 @@ title: Angular 한글 오류 문제
 
 ### Angular 한글 오류 문제
 
+Angular 1.2 버전 이상을 쓰다보면 input 박스나 textarea의 입력
 ```javascript
  app.config(["$provide", '$routeProvider', "$locationProvider",
     function($provide, $routeProvider, $locationProvider) {
