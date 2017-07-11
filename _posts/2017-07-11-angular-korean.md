@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angular 한글 오류 문제
+title: [Angular] 한글 오류 문제
 ---
 
 
