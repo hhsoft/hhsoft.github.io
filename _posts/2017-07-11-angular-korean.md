@@ -4,7 +4,8 @@ title: Angular 한글 오류 문제
 ---
 
 ### Angular 한글 오류 문제
-``` javascript
+
+```javascript
  app.config(["$provide", '$routeProvider', "$locationProvider",
     function($provide, $routeProvider, $locationProvider) {
     
